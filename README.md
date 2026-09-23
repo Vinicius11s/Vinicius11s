@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Vinicius 👋</h1>
+<h1 align="center">Olá, eu sou o Vinicius</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -21,7 +21,8 @@
 ## 🚀 Sobre mim
 
 - 💼 Desenvolvedor no time de **Desenvolvimento & Dados da Unimed Presidente Prudente** — automações, integrações e ferramentas internas
-- 📈 **Tech Lead na RaioX Preditivo Academy** — bots de WhatsApp com IA e plataforma de Business Intelligence
+- 📈 **Infra & DevOps na RaioX Preditivo Academy** — bots de WhatsApp com IA e plataformas sob medida.
+- 💼 Cofundador - FiveX Tecnologia
 - 🎓 Graduando em **Sistemas de Informação** na Toledo Prudente
 - 🤖 Foco em **automação com IA**: agentes LLM, workflows n8n e integrações com APIs (WhatsApp Cloud API, CRMs, ERPs)
 - 📍 Presidente Prudente — SP, Brasil
@@ -113,7 +114,7 @@
 **Linguagens & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,nextjs,react,python,java,html,css&perline=11" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,nextjs,react,html,css&perline=11" />
 </p>
 
 **Dados, Infra & Automação**
