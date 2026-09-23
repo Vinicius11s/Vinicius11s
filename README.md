@@ -2,15 +2,6 @@
   <img src="./banner.svg" width="100%" alt="Vinicius Santana Horta" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-santana-horta-343958265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://fivextecnologia.com.br/"><img src="https://img.shields.io/badge/FiveX_Tecnologia-1f5bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="FiveX Tecnologia" /></a>
-  <a href="mailto:vinihortasantana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Vinicius11s&color=1f5bff&style=for-the-badge&label=VISITAS" alt="Visitas" />
-</p>
-
-<br/>
-
 <h2><img src="https://api.iconify.design/lucide/user-round.svg?color=%235b8cff" width="24" align="top" /> Sobre mim</h2>
 
 <table>
@@ -102,33 +93,65 @@
 <h2><img src="https://api.iconify.design/lucide/layers.svg?color=%235b8cff" width="24" align="top" /> Stack</h2>
 
 <p><b>Linguagens &amp; Frameworks</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,nextjs,react,html,css&perline=11" />
-</p>
 
-<p><b>Infra, DevOps &amp; Dados</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,githubactions,git,github,postgres&perline=11" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://api.iconify.design/logos/c-sharp.svg" height="20" align="center" />&nbsp; C#</td>
+    <td><img src="https://api.iconify.design/logos/dotnet.svg" height="20" align="center" />&nbsp; .NET</td>
+    <td><img src="https://api.iconify.design/logos/typescript-icon.svg" height="20" align="center" />&nbsp; TypeScript</td>
+    <td><img src="https://api.iconify.design/logos/javascript.svg" height="20" align="center" />&nbsp; JavaScript</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/logos/nodejs-icon.svg" height="20" align="center" />&nbsp; Node.js</td>
+    <td><img src="https://api.iconify.design/logos/nextjs-icon.svg" height="20" align="center" />&nbsp; Next.js</td>
+    <td><img src="https://api.iconify.design/logos/react.svg" height="20" align="center" />&nbsp; React</td>
+    <td><img src="https://api.iconify.design/logos/html-5.svg" height="20" align="center" />&nbsp; HTML / CSS</td>
+  </tr>
+</table>
+
+<p><b>Infra &amp; DevOps</b></p>
+
+<table>
+  <tr>
+    <td><img src="https://api.iconify.design/logos/docker-icon.svg" height="20" align="center" />&nbsp; Docker</td>
+    <td><img src="https://api.iconify.design/simple-icons/coolify.svg?color=%236B16ED" height="20" align="center" />&nbsp; Coolify</td>
+    <td><img src="https://api.iconify.design/simple-icons/traefikproxy.svg?color=%2324A1C1" height="20" align="center" />&nbsp; Traefik</td>
+    <td><img src="https://api.iconify.design/logos/nginx.svg" height="20" align="center" />&nbsp; Nginx</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/logos/linux-tux.svg" height="20" align="center" />&nbsp; Linux</td>
+    <td><img src="https://api.iconify.design/logos/cloudflare-icon.svg" height="20" align="center" />&nbsp; Cloudflare</td>
+    <td><img src="https://api.iconify.design/logos/github-actions.svg" height="20" align="center" />&nbsp; GitHub Actions</td>
+    <td><img src="https://api.iconify.design/logos/git-icon.svg" height="20" align="center" />&nbsp; Git</td>
+  </tr>
+</table>
+
+<p><b>Dados, Automação &amp; IA</b></p>
+
+<table>
+  <tr>
+    <td><img src="https://api.iconify.design/logos/postgresql.svg" height="20" align="center" />&nbsp; PostgreSQL</td>
+    <td><img src="https://api.iconify.design/simple-icons/oracle.svg?color=%23F80000" height="20" align="center" />&nbsp; Oracle</td>
+    <td><img src="https://api.iconify.design/simple-icons/n8n.svg?color=%23EA4B71" height="20" align="center" />&nbsp; n8n</td>
+    <td><img src="https://api.iconify.design/logos/whatsapp-icon.svg" height="20" align="center" />&nbsp; WhatsApp API</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/logos/claude-icon.svg" height="20" align="center" />&nbsp; Claude</td>
+    <td><img src="https://api.iconify.design/simple-icons/googlegemini.svg?color=%238E75B2" height="20" align="center" />&nbsp; Gemini</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <h2><img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%235b8cff" width="24" align="top" /> Estatísticas</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinicius11s&theme=tokyonight" width="100%" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinicius11s&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinicius11s&theme=tokyonight" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </p>
 
 <p align="center">
@@ -139,91 +162,4 @@
 
 <p align="center">
   <sub>Automatize o repetitivo, foque no que importa.</sub>
-</p>
-<h1 align="center">Olá, eu sou o Vinicius 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=S%C3%B3cio+%40+FiveX+Tecnologia;Infra+%26+DevOps+%7C+Deploy+%26+Cloud;Automa%C3%A7%C3%B5es+com+n8n+%2B+IA;C%23+%7C+.NET+%7C+Node.js+%7C+Next.js" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-santana-horta-343958265/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fivextecnologia.com.br/">
-    <img src="https://img.shields.io/badge/FiveX_Tecnologia-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="FiveX Tecnologia" />
-  </a>
-  <a href="mailto:vinihortasantana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Vinicius11s&color=2F81F7&style=for-the-badge&label=VISITAS" alt="Visitas" />
-</p>
-
----
-
-## 🚀 Sobre mim
-
-- 🏢 **Sócio-proprietário da [FiveX Tecnologia](https://fivextecnologia.com.br/)** — produtos SaaS, automação e infraestrutura
-- ☁️ **Infra & DevOps na RaioX Preditivo** — responsável por todo o deploy e infraestrutura das plataformas
-- 💼 Desenvolvedor no time de **Desenvolvimento & Dados da Unimed Presidente Prudente** — automações, integrações e sistemas internos
-- 🤖 Foco em **automação com IA**: agentes LLM, workflows n8n e integrações (WhatsApp Cloud API, CRMs, ERPs)
-- 🎓 Graduando em **Sistemas de Informação** na Toledo Prudente
-- 📍 Presidente Prudente — SP, Brasil
-
-## 🌐 Projetos em produção
-
-| Projeto | Papel | O que é |
-|---|---|---|
-| 🏢 [**FiveX Tecnologia**](https://fivextecnologia.com.br/) | Proprietário | Empresa de tecnologia — SaaS, automação e infraestrutura |
-| ⚖️ [**PrimeJuris**](https://primejuris.com.br/login) | Proprietário · DevOps | Plataforma jurídica — cuido de todo o deploy |
-| 💬 [**ZapControl**](https://zapcontrol.com.br/) | Proprietário · DevOps | Gestão e automação de atendimento no WhatsApp — cuido de todo o deploy |
-| 📡 [**Sato Radar**](https://satoradar.melhoresferramentas.ai/) | Infra & DevOps | Plataforma de BI para trading — cuido de todo o deploy |
-| 🧰 [**Melhores Ferramentas**](https://app.melhoresferramentas.ai/) | Infra & DevOps | Plataforma de ferramentas para traders — cuido de todo o deploy |
-| 🩺 [**Credenciamento Médico — Unimed**](https://portal.unimedprudente.com.br/credenciamentomedico/) | Desenvolvedor | Portal de credenciamento médico da Unimed Presidente Prudente |
-
-## 🛠️ Stack
-
-**Linguagens & Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,nextjs,react,html,css&perline=11" />
-</p>
-
-**Infra, DevOps & Dados**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,githubactions,git,github,postgres&perline=11" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinicius11s&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinicius11s&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinicius11s&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinicius11s&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>"Automatize o repetitivo, foque no que importa."</i>
 </p>
