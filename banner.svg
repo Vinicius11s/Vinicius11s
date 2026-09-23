@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070f"/>
+      <stop offset="0.6" stop-color="#0b1330"/>
+      <stop offset="1" stop-color="#10205a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#2f6bff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#2f6bff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="arc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f6bff" stop-opacity="0"/>
+      <stop offset="0.7" stop-color="#5b8cff"/>
+      <stop offset="1" stop-color="#b7ccff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <style>
+    .t{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+    .fade{opacity:0;animation:in .9s ease-out forwards}
+    .d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+    @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    .arc{stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 2.2s ease-out forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .dot{animation:pulse 2s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+  </style>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <path class="arc" d="M520 330 C 760 250, 960 120, 1210 -20" fill="none" stroke="url(#arc)" stroke-width="3"/>
+  <path class="arc" d="M600 330 C 820 260, 1000 150, 1210 40" fill="none" stroke="url(#arc)" stroke-width="1.2" stroke-opacity="0.5"/>
+
+  <g class="t">
+    <g class="fade">
+      <rect x="70" y="62" width="250" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
+      <circle class="dot" cx="90" cy="77" r="5" fill="#3ddc84"/>
+      <text x="104" y="82" font-size="14" fill="#c9d4ff" font-weight="600">Presidente Prudente · SP</text>
+    </g>
+    <text class="fade d1" x="68" y="160" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="-1">Vinicius Santana Horta</text>
+    <text class="fade d2" x="70" y="205" font-size="24" fill="#9fb3ff" font-weight="500">Sócio @ FiveX Tecnologia  ·  Infra &amp; DevOps  ·  Automação com IA</text>
+    <text class="fade d3" x="70" y="245" font-size="16" fill="#7d8bb5">C# / .NET  ·  Node.js  ·  Next.js  ·  Docker  ·  n8n  ·  PostgreSQL</text>
+  </g>
+</svg>
